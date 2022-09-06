@@ -23,7 +23,7 @@
 </div>
 <h1 align="center">&nbsp;&nbsp;&nbsp;hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://www.cdipits.com/public/uploads/service-4.gif" width="600" height="300"/>
 </div>
 
 ---
