@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
+  <img src="https://miro.medium.com/max/1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" width="100"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/tufayel-ahmed-01a34a248/">
