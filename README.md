@@ -5,9 +5,6 @@
   <a href="https://www.linkedin.com/in/tufayel-ahmed-01a34a248/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://codeforces.com/profile/Tufayel-Ahmed">
-    <img src="https://img.shields.io/badge/Codeforces-B21F25?logo=codeforces&logoColor=white&style=for-the-badge" alt="Codeforces Badge"/>
-  </a>
   <a href="https://leetcode.com/Tufayel-Ahmed/">
     <img src="https://img.shields.io/badge/LeetCode-FFA400?logo=leetcode&logoColor=white&style=for-the-badge" alt="LeetCode Badge"/>
   </a>
